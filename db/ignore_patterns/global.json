@@ -161,7 +161,7 @@
         "^http://www\\.blinklist\\.com/index\\.php\\?Action=Blink/addblink\\.php",
         "^http://sphinn\\.com/index\\.php\\?c=post&m=submit&",
         "^http://posterous\\.com/share\\?",
-        "^https?://(del\\.icio\\.us|delicious\\.com)/(save|post)\\?",
+        "^https?://(del\\.icio\\.us|(www\\.)?delicious\\.com)/(save|post)\\?",
         "^https?://(www\\.)?friendfeed\\.com/share\\?",
         "^https?://(www\\.)?xing(-share)?\\.com/(app/user\\?op=share|social_plugins/share\\?|spi/shares/new\\?)",
         "^http://iwiw\\.hu/pages/share/share\\.jsp\\?",
